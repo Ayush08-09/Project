@@ -1,4 +1,4 @@
-# Final-Project
+# Project
 This is a beginner Solidity Smart Contract to demonstrate the basics of Solidity.
 
 # Description
